@@ -1,0 +1,26 @@
+body
+{
+	background-color: gray;
+	color: black;
+	font-family: Tahoma;
+	
+} 							
+
+header
+{
+		
+		background-color: black;
+		text-align: center;
+		color: white;
+		font-family: TimesNewRoman;
+                padding: 15px;
+}
+
+footer
+{
+		background-color: black;
+                color: white;
+		text-align: center;
+                padding: 15px;
+		
+}
